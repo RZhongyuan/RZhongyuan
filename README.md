@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RZhongyuan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: renzhongyuan028@163.com
 
 <!---
